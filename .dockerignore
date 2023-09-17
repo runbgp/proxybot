@@ -14,7 +14,7 @@ Dockerfile
 .venv/
 venv/
 
-# proxybot
+# ProxyBot
 .json
 
 # VS Code
