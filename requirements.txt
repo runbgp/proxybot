@@ -1,0 +1,4 @@
+paramiko
+CloudFlare
+discord.py
+python-dotenv

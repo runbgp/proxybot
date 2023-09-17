@@ -1,0 +1,21 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Docker
+docker-compose.yml
+Dockerfile
+.docker
+.dockerignore
+
+# Environment
+.env
+.venv/
+venv/
+
+# proxybot
+.json
+
+# VS Code
+.vscode/

@@ -1,0 +1,8 @@
+{
+    "an-example": {
+        "location": "Example, EX",
+        "ip": "1.1.1.1",
+        "ipv6": "2606:4700:4700::1111",
+        "ssh_key_path": "/ssh_keys/YOUR_SSH_KEY"
+    }
+}

@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  proxybot:
+    image: ghcr.io/runbgp/proxybot:latest
+    restart: unless-stopped
+    container_name: proxybot
+    volumes:
+      - .env:/.env
+      - ./ssh_keys:/proxybot/ssh_keys
+      - ./proxy_list.json:/proxybot/proxy_list.json
